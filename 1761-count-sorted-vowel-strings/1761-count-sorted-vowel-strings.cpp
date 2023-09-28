@@ -1,17 +1,15 @@
 class Solution {
 public:
-    int f(int ind, int n, vector<vector<int>> &dp){
-        if(n == 0) return 1;
-        if(ind >= 5) return 0;
-
-        if(dp[ind][n] != -1) return dp[ind][n];
-
-        int nt = f(ind + 1, n, dp);
-        int tk = f(ind, n - 1, dp);
-        return dp[ind][n] = nt + tk;
-    }
     int countVowelStrings(int n) {
-        vector<vector<int>> dp(6, vector<int>(n + 1, -1));
-        return f(0, n, dp);
+        vector<vector<int>> dp(6, vector<int>(n + 1, 0));
+        for(int i = 0; i < 5; i++) dp[i][0] = 1;
+        for(int ind = 4; ind >= 0; ind--){
+            for(int j = 1; j <= n; j++){
+                int nt = dp[ind + 1][j];
+                int tk = dp[ind][j - 1];
+                dp[ind][j] = nt + tk;
+            }
+        }
+        return dp[0][n];
     }
 };
