@@ -10,8 +10,18 @@ public:
         }
         return dp[n] = prod;
     }
-    int integerBreak(int n) {
-        vector<int> dp(n + 1, -1);
-        return f(n, dp);
+    int integerBreak(int N) {
+        vector<int> dp(N + 1, 0);
+        dp[0] = 1;
+        dp[1] = 1;
+        for(int n = 2; n <= N; n++) {
+            int prod = 0;
+            for(int i = 1; i < n ; i++) {
+                int temp = max(i * (n - i), i * dp[n - i]);
+                prod = max(prod, temp);
+            }
+            dp[n] = prod;
+        }
+        return dp[N];
     }
 };
