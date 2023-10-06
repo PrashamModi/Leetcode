@@ -17,11 +17,12 @@ public:
         return dp[i][j][aliceTurn] = max(aliceScore, BobScore);
     }
     bool stoneGame(vector<int>& piles) {
-        int n = piles.size();
-        int sum = accumulate(piles.begin(), piles.end(), 0);
-        vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(n + 1, vector<int>(2, -1)));
-        int aliceScore = f(0, n - 1, 1, piles, dp);
-        if(aliceScore > sum / 2) return true;
-        return false;
+        // int n = piles.size();
+        // int sum = accumulate(piles.begin(), piles.end(), 0);
+        // vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(n + 1, vector<int>(2, -1)));
+        // int aliceScore = f(0, n - 1, 1, piles, dp);
+        // if(aliceScore > sum / 2) return true;
+        // return false;
+        return true;
     }
 };
