@@ -3,25 +3,28 @@ public:
     int numTeams(vector<int>& nums) {
         int ans = 0;
         int n = nums.size();
-        vector<int> dp(n, 0);
+
         for(int i = 0; i < n; i++) {
-            for(int j = i; j >= 0; j--) {
+            int leftSmall = 0, rightSmall = 0;
+            int leftLarge = 0, rightLarge = 0;
+
+            for(int j = 0; j < i; j++) {
                 if(nums[j] < nums[i]){
-                    dp[i]++;
-                    ans += dp[j]; 
+                    leftSmall++;
+                } else if (nums[i] < nums[j]) {
+                    leftLarge++;
                 }
             }
-        }
 
-        fill(dp.begin(), dp.end(), 0);
-
-        for(int i = 0; i < n; i++) {
-            for(int j = i; j >= 0; j--) {
-                if(nums[j] > nums[i]){
-                    dp[i]++;
-                    ans += dp[j]; 
+            for(int j = i + 1; j < n; j++) {
+                if(nums[i] < nums[j]){
+                    rightLarge++;
+                } else if (nums[i] > nums[j]) {
+                    rightSmall++;
                 }
             }
+
+            ans += leftSmall * rightLarge + leftLarge * rightSmall;
         }
 
         return ans;
