@@ -32,7 +32,17 @@ public:
             return max(fmax * smin, fmin * smax);
         }
 
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
-        return f(0, 0, a, b, dp);
+        vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
+        for(int i = n - 1; i >= 0; i--) {
+            for(int j = m - 1; j >= 0; j--) {
+                int take_both = a[i] * b[j] + dp[i + 1][j + 1];
+                int take_first = dp[i + 1][j];
+                int take_second = dp[i][j + 1];
+
+                dp[i][j] = max({take_both, take_first, take_second});
+            }
+        }
+
+        return dp[0][0];
     }
 };
