@@ -1,26 +1,22 @@
 class Solution {
 public:
     int ans = 0;
-    void permutations(int nums[], int ind, int n) {
-        if(ind == n) {
+    void f(int ind, vector<int> &v, int n) {
+        if(ind > n) {
             ans++;
             return;
         }
-        for(int i = ind; i < n; i++) {
-            swap(nums[i], nums[ind]);
-            if(nums[ind] % (ind + 1) == 0 || (ind + 1) % nums[ind] == 0){
-                permutations(nums, ind + 1, n);
+        for(int i = 1; i <= n; i++) {
+            if(!v[i] && ((ind % i == 0) || (i % ind == 0))) {
+                v[i] = 1;
+                f(ind + 1, v, n);
+                v[i] = 0;
             }
-            
-            swap(nums[i], nums[ind]);
         }
     }
     int countArrangement(int n) {
-        int arr[n] ;
-        for(int i = 1; i <= n; i++){
-            arr[i - 1] = i;
-        }
-        permutations(arr, 0, n);
+        vector<int> v(n + 1, 0);
+        f(1, v, n);
         return ans;
     }
     
