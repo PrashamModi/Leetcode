@@ -1,21 +1,25 @@
 class Solution {
 public:
+    int lis(vector<int> &v) {
+        vector<int> temp;
+        temp.push_back(v[0]);
+        for(int i = 1; i < v.size(); i++) {
+            if(v[i] >= temp.back()) {
+                temp.push_back(v[i]);
+            } else {
+                int idx = upper_bound(temp.begin(), temp.end(), v[i]) - temp.begin();
+                temp[idx] = v[i];
+            }
+        }
+        return temp.size();
+    }
     int minimumDeletions(string s) {
         int n = s.size();
-        int pref[n];
-        int suff[n];
-        pref[0] = 0;
-        suff[n - 1] = 0;
-        for(int i = 1; i < n; i++) {
-            pref[i] = pref[i - 1] + (s[i - 1] == 'b');
+        vector<int> v;
+        for(auto it : s) {
+            if(it == 'a') v.push_back(0);
+            else v.push_back(1);
         }
-        for(int i = n - 2; i >= 0; i--) {
-            suff[i] = suff[i + 1] + (s[i + 1] == 'a');
-        }
-        int ans = 1e9;
-        for(int i = 0; i < n; i++) {
-            ans = min(ans, pref[i] + suff[i]);
-        }
-        return ans;
+        return n - lis(v);
     }
 };
