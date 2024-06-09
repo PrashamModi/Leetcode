@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/PrashamModi/Leetcode/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PrashamModi/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Hash Table
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/PrashamModi/Leetcode/tree/master/0648-replace-words) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PrashamModi/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 # String
 |  |
 | ------- |
@@ -18,3 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/PrashamModi/Leetcode/tree/master/0648-replace-words) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PrashamModi/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
