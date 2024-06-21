@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0648-replace-words](https://github.com/PrashamModi/Leetcode/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PrashamModi/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1138-grumpy-bookstore-owner](https://github.com/PrashamModi/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 # Hash Table
 |  |
 | ------- |
@@ -24,3 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PrashamModi/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/PrashamModi/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
