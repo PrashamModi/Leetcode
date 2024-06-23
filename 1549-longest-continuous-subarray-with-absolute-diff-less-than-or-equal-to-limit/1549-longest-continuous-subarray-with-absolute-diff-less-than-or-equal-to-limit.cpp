@@ -4,17 +4,14 @@ public:
         int n = nums.size();
         int i = 0, j = 0;
         int ans = 0;
-        priority_queue<pair<int, int>> maxPq;
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minPq;
+        multiset<int> ms;
 
         while(i < n) {
-            maxPq.push({nums[i], i});
-            minPq.push({nums[i], i});
+            ms.insert(nums[i]);
 
-            while(maxPq.top().first - minPq.top().first > limit) {
-                j = min(maxPq.top().second, minPq.top().second) + 1;
-                while(maxPq.top().second < j) maxPq.pop();
-                while(minPq.top().second < j) minPq.pop();
+            while(*ms.rbegin() - *ms.begin() > limit) {
+                ms.erase(ms.find(nums[j]));
+                j++;
             }
 
             ans = max(ans, i - j + 1);
