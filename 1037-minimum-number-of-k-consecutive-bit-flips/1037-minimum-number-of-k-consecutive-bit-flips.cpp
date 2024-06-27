@@ -2,26 +2,21 @@ class Solution {
 public:
     int minKBitFlips(vector<int>& nums, int k) {
         int n = nums.size();
-        vector<bool> flipped(n, false);
-        int validFlips = 0;
-        int ans = 0;
-
-        for(int i = 0; i < n; i++){
-            if(i >= k) {
-                if(flipped[i - k]){
-                    validFlips--;
-                }
+        int currFlips = 0, totalFlips = 0;
+        for(int i = 0; i < n; i++) {
+            if(i >= k && nums[i - k] == 2){
+                currFlips--;
             }
 
-            if(validFlips % 2 == nums[i]) {
-                if(n - k < i){
+            if((currFlips % 2) == nums[i]) {
+                if(i + k > n) {
                     return -1;
                 }
-                validFlips++;
-                flipped[i] = true;
-                ans++;
+                nums[i] = 2;
+                currFlips++;
+                totalFlips++;
             }
         }
-        return ans;
+        return totalFlips;
     }
 };
