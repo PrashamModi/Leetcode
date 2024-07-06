@@ -94,4 +94,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/PrashamModi/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/PrashamModi/Leetcode/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/PrashamModi/Leetcode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
