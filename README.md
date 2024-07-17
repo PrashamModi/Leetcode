@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/PrashamModi/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -102,4 +103,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/PrashamModi/Leetcode/tree/master/2645-pass-the-pillow) |
+## Array
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+## Hash Table
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+## Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+## Binary Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
