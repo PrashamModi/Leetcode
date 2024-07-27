@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/PrashamModi/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/PrashamModi/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/PrashamModi/Leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PrashamModi/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,4 +159,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/PrashamModi/Leetcode/tree/master/0948-sort-an-array) |
+## String
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
