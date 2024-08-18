@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/PrashamModi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2645-pass-the-pillow](https://github.com/PrashamModi/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/PrashamModi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrashamModi/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrashamModi/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/PrashamModi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/PrashamModi/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -183,5 +186,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/PrashamModi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PrashamModi/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
