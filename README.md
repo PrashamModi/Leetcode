@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/PrashamModi/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/PrashamModi/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/PrashamModi/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/PrashamModi/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/PrashamModi/Leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1325-path-with-maximum-probability](https://github.com/PrashamModi/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrashamModi/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PrashamModi/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/PrashamModi/Leetcode/tree/master/2035-count-sub-islands) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PrashamModi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/PrashamModi/Leetcode/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/PrashamModi/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/PrashamModi/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
