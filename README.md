@@ -209,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/PrashamModi/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/PrashamModi/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
