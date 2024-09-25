@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/PrashamModi/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PrashamModi/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PrashamModi/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/PrashamModi/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/PrashamModi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -190,11 +191,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/PrashamModi/Leetcode/tree/master/0948-sort-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/PrashamModi/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrashamModi/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/PrashamModi/Leetcode/tree/master/0564-find-the-closest-palindrome) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/PrashamModi/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/PrashamModi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrashamModi/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -224,5 +227,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/PrashamModi/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/PrashamModi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
