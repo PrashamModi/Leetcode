@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/PrashamModi/Leetcode/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/PrashamModi/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/PrashamModi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/PrashamModi/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrashamModi/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/PrashamModi/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/PrashamModi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PrashamModi/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/PrashamModi/Leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PrashamModi/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PrashamModi/Leetcode/tree/master/0264-ugly-number-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/PrashamModi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PrashamModi/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/PrashamModi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
