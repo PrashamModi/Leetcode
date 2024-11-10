@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/PrashamModi/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/PrashamModi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PrashamModi/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/PrashamModi/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PrashamModi/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/PrashamModi/Leetcode/tree/master/3394-minimum-array-end) |
 ## Trie
 |  |
@@ -276,4 +278,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PrashamModi/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PrashamModi/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
