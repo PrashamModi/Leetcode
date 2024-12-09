@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/PrashamModi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PrashamModi/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/PrashamModi/Leetcode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0731-my-calendar-ii](https://github.com/PrashamModi/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/PrashamModi/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [3427-special-array-ii](https://github.com/PrashamModi/Leetcode/tree/master/3427-special-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0731-my-calendar-ii](https://github.com/PrashamModi/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/PrashamModi/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [3427-special-array-ii](https://github.com/PrashamModi/Leetcode/tree/master/3427-special-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
