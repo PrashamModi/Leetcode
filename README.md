@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/PrashamModi/Leetcode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/PrashamModi/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0731-my-calendar-ii](https://github.com/PrashamModi/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/PrashamModi/Leetcode/tree/master/0890-lemonade-change) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PrashamModi/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0494-target-sum](https://github.com/PrashamModi/Leetcode/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PrashamModi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PrashamModi/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/PrashamModi/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -290,4 +292,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PrashamModi/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/PrashamModi/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
