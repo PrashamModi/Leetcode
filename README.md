@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/PrashamModi/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/PrashamModi/Leetcode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/PrashamModi/Leetcode/tree/master/0948-sort-an-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/PrashamModi/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1207-delete-nodes-and-return-forest](https://github.com/PrashamModi/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/PrashamModi/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PrashamModi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PrashamModi/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/PrashamModi/Leetcode/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/PrashamModi/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PrashamModi/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PrashamModi/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/PrashamModi/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
