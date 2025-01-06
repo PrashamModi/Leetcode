@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/PrashamModi/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/PrashamModi/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/PrashamModi/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrashamModi/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2035-count-sub-islands](https://github.com/PrashamModi/Leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/PrashamModi/Leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PrashamModi/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/PrashamModi/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/PrashamModi/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrashamModi/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PrashamModi/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/PrashamModi/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/PrashamModi/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0731-my-calendar-ii](https://github.com/PrashamModi/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/PrashamModi/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/PrashamModi/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/PrashamModi/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3427-special-array-ii](https://github.com/PrashamModi/Leetcode/tree/master/3427-special-array-ii) |
 ## Ordered Set
