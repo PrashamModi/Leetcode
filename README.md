@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/PrashamModi/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/PrashamModi/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PrashamModi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/PrashamModi/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2755-extra-characters-in-a-string](https://github.com/PrashamModi/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/PrashamModi/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/PrashamModi/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/PrashamModi/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/PrashamModi/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PrashamModi/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/PrashamModi/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3427-special-array-ii](https://github.com/PrashamModi/Leetcode/tree/master/3427-special-array-ii) |
 ## Design
 |  |
